@@ -1,143 +1,143 @@
 [[LittleCMS]]
 arch = "aarch64"
-git-tree-sha1 = "7a574d719b2ca3fdce11d60df27feaed2926e8fe"
+git-tree-sha1 = "3dc61d8d042753e0c4cd5760d463ae8a79c6ab84"
 os = "macos"
 
     [[LittleCMS.download]]
-    sha256 = "6d5bf99e564d7c1c316b16f5bfe8f3742eb786d1123d945594b58f025829cf83"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "2c69887c7b31fe0886eeb9fe0346009ae9429f60924f41c79be0431b27048e2c"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.aarch64-apple-darwin.tar.gz"
 [[LittleCMS]]
 arch = "aarch64"
-git-tree-sha1 = "6833d2000bb7a596b09497b174e2a7070beee4b5"
+git-tree-sha1 = "18b9f5dc972f75f26c61d22c541cc83b3a80732a"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "66dcfe11ff3e1a094a87c0e622acbc6ef9e98884bfe221034df5be0ba456d8df"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "924828dee57b59ae56c57938e3613bed4ea126ccf80c2fdd36047a1a16a5f8eb"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.aarch64-linux-gnu.tar.gz"
 [[LittleCMS]]
 arch = "aarch64"
-git-tree-sha1 = "84cfcae43a76c071b2ed61a0cc187b9de88a5671"
+git-tree-sha1 = "1df147e50fba20ed650a0b4c86a917044de471f3"
 libc = "musl"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "6d5dbe4f695cf9f0653eabda1751a31f4d3067f2af1264014d44f700d418537e"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.aarch64-linux-musl.tar.gz"
+    sha256 = "93ebee0a353edfcf423f9fdbd9865ba72d10a2fb866e03cdbe1d816fc92f0a75"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.aarch64-linux-musl.tar.gz"
 [[LittleCMS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4036c122d3fc7ee3b384f17d9b99bdd894ff41a1"
+git-tree-sha1 = "9777439b3474710e6758e0fb6066f833c21769f7"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "7d55c2274e52d253f694f7c73a280491b272579f3a5048f62bba66c3ab273446"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0a1480a8cbf52335612e9ec18a701832bcc84f932bb44cd5fa2fb8fe135d8ac0"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.armv6l-linux-gnueabihf.tar.gz"
 [[LittleCMS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a2bd23b86482f7a8e4d6388aabf094563a097256"
+git-tree-sha1 = "615a4b8a25c8beff5562ac8ccf8e718f729b748a"
 libc = "musl"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "4a25f5cb8400e5c497692ea101ed236439fa4e14d68f0804e0b79211cb54583a"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "b0315f11a7bd6db9c23a7d207c2561283c85d6fa6b54f14a659c1b91f5797f20"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.armv6l-linux-musleabihf.tar.gz"
 [[LittleCMS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9fa4d83f5bcbbab3e916afbcbc1099f25877872e"
+git-tree-sha1 = "6e90e17c493cd582c0c170f42fb713dd59971e19"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "79e5acbd2b2f834656389ddb4423e99749e0c7a9bca34080a81d2496dd823c85"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6cd67fd6a3bb359ab06882769c4b8572a74f005efa3fa96931979f6d38ecbb1b"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.armv7l-linux-gnueabihf.tar.gz"
 [[LittleCMS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7adc165f812f4ba60b114b3e1109be98155c3e77"
+git-tree-sha1 = "5209095e897ac58d4d3c8b72894613afb9d762c8"
 libc = "musl"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "ff061ae1f526a4e84ffb0863b4b6195af2d39d076f6637d6a2bf2a24d43291fe"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "92661c241df0e02013e4c4cee6293c29d2ca9191f4aa8bd9c4126fcb2f1e13ff"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.armv7l-linux-musleabihf.tar.gz"
 [[LittleCMS]]
 arch = "i686"
-git-tree-sha1 = "9c87b2c58ef556f5b25d74b8ae9166adc2cd1271"
+git-tree-sha1 = "eaea67458f20ba7b3ca51ade24e760bb1e8521df"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "5b8ab44d8acb96a8414a5f55da262995064fae5836d1526dffce25f6e7b9e034"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.i686-linux-gnu.tar.gz"
+    sha256 = "b99a7dc01e4547a6026d31fc7c70284594d042373f73b466695e730f6910ada8"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.i686-linux-gnu.tar.gz"
 [[LittleCMS]]
 arch = "i686"
-git-tree-sha1 = "53866927b8fbc158735513846de385a390386dfd"
+git-tree-sha1 = "690957d2a94371d7bc233f70fd43b353bfcafe42"
 libc = "musl"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "84118abe78fe012507a45c0523c665a0d469dda91629352b1492f7e4ff1fb889"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.i686-linux-musl.tar.gz"
+    sha256 = "201622cfa68780fb46cc2885a27ee480aa26b46e7bdc9ffb626d6fd17aa4dc8c"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.i686-linux-musl.tar.gz"
 [[LittleCMS]]
 arch = "i686"
-git-tree-sha1 = "bda614d4da831edcde23e05cb07e0a929e4de024"
+git-tree-sha1 = "5ccd0f566d51f0a6309fcae0b68607a01fd4d904"
 os = "windows"
 
     [[LittleCMS.download]]
-    sha256 = "2ba7724ccd8a6a702a09c88b859aa1b81e74ee8f22c498998e05ffd316a840da"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.i686-w64-mingw32.tar.gz"
+    sha256 = "6f0e4fd9a50e56d1fff73c232e80d48de932bef5c0c61be01653f43c6401baad"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.i686-w64-mingw32.tar.gz"
 [[LittleCMS]]
 arch = "powerpc64le"
-git-tree-sha1 = "cb14973d432633dc326127b17466ce88555d1d3c"
+git-tree-sha1 = "8b4779f72f0f9ec1dadde99879cebb858a937745"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "40e7e557c59d58678830740801ce63144fc12eaa79606d899af4ff18fb4dd9b4"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "73d835d0654de055dcb57d8d08ca0fb96bea3b3aadbd93d2f4e72d26b8babe23"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.powerpc64le-linux-gnu.tar.gz"
 [[LittleCMS]]
 arch = "x86_64"
-git-tree-sha1 = "ce8891bbdc2ff50f5fe2ac1d1fc217d5eb0c8e0f"
+git-tree-sha1 = "4ad4f13dba11fa549bc93c12b6f7807c5150a045"
 os = "macos"
 
     [[LittleCMS.download]]
-    sha256 = "3c4cb6bc752d4e6277e89fce93518b24724bd3319c6fb2a2b50bc152104e2f79"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "2ebc25a75651c556b1043358a3ceaa9b14dafbc130b4dc1b1dd1d9d9918d292f"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.x86_64-apple-darwin.tar.gz"
 [[LittleCMS]]
 arch = "x86_64"
-git-tree-sha1 = "4c6becd43e12ccc8bf20df6a88bdfb112caf592e"
+git-tree-sha1 = "e2e816543d81085b1d92e6da265e1f7f5e2e0a50"
 libc = "glibc"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "e6c6b6f84949776d50c8a4b7533871588b91fd3290e016b1d6f79dcc1f8f49d8"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "114b0c83eb826ba64b5c6c859e5bb1a9ee4ac69d55f28b71071418295c1c749f"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.x86_64-linux-gnu.tar.gz"
 [[LittleCMS]]
 arch = "x86_64"
-git-tree-sha1 = "fa985490edf2f9e5710fbad55d71169ee0745d0d"
+git-tree-sha1 = "8a3414d6c8162596561d68f4cf2e96563ab7bbf3"
 libc = "musl"
 os = "linux"
 
     [[LittleCMS.download]]
-    sha256 = "e0f2eb89303be45ff50408e6402d073a66d9d1cbde025997ff6310d4c55bf64f"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.x86_64-linux-musl.tar.gz"
+    sha256 = "cc091d6474af479fe3cdb07341d65454189c690e9442a34ef49a3c67101f9c92"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.x86_64-linux-musl.tar.gz"
 [[LittleCMS]]
 arch = "x86_64"
-git-tree-sha1 = "3421e718366405ec0a2d17128edc90467454af1f"
+git-tree-sha1 = "06d6952cd8b6692f5853de77bcc42d6be25139f4"
 os = "freebsd"
 
     [[LittleCMS.download]]
-    sha256 = "9accc05d2854d603b61f23ef3190d42e0fe72006f608668fd3ed47d1919bcec5"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "60fbeb8e353866b6d8a970bd0fbf3af04dce328da7ff4524b7589ba1d70004c3"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.x86_64-unknown-freebsd.tar.gz"
 [[LittleCMS]]
 arch = "x86_64"
-git-tree-sha1 = "dab246038bc6c570335838bd565a473d3086b734"
+git-tree-sha1 = "b74bda12667a414ba256a8cd1150b942e6970688"
 os = "windows"
 
     [[LittleCMS.download]]
-    sha256 = "f48b1393a2808d84785c948f1a79d03b370f40eea2bace317974fb499528d62a"
-    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.15.0+0/LittleCMS.v2.15.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "e004c1d179984a76c045147777c2e7e31c40428e5a61b5d823e1436d03550a3f"
+    url = "https://github.com/JuliaBinaryWrappers/LittleCMS_jll.jl/releases/download/LittleCMS-v2.16.0+0/LittleCMS.v2.16.0.x86_64-w64-mingw32.tar.gz"
