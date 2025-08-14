@@ -1,6 +1,6 @@
 name = "LittleCMS_jll"
 uuid = "d3a379c0-f9a3-5b72-a4c0-6bf4d2e8af0f"
-version = "2.16.0+0"
+version = "2.17.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,9 +10,9 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-JpegTurbo_jll = "3.0.1"
-Libdl = "1"
-Libtiff_jll = "4.5.1"
-Artifacts = "1"
+JpegTurbo_jll = "3.1.1"
+Libdl = "< 0.0.1, 1"
+Libtiff_jll = "4.7.1"
+Artifacts = "< 0.0.1, 1"
